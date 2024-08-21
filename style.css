@@ -1,0 +1,26 @@
+* {
+    margin:0px;
+    padding:0px;
+}
+
+.titulo-block {
+    display: flex;
+    justify-content: center;
+    color: #FF0000;
+    background-color: #FFE8C8;
+}
+
+.titulo-block:hover {
+    background-color: #f4e8d8;
+}
+.texto-destacado {
+    color:  #FF4C4C;
+    BACKGROUND-COLOR: #FFFE4D;
+}
+
+.urgente {
+    background-color:#FF0000;
+    border: solid black 5px;
+    padding:50px;
+    margin:20px
+}
