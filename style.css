@@ -3,6 +3,10 @@
     padding:0px;
 }
 
+.body {
+    border: 2px solid #FF0000;
+}
+
 .titulo-block {
     display: flex;
     justify-content: center;
